@@ -25,24 +25,4 @@ The homework folders include Python/Jupyter implementations, audio recordings, r
 - notebook-based ML exercises;
 - small speech datasets used for assignments.
 
-## Status
 
-This is a coursework archive, not a single packaged speech-recognition application. Some included audio files were generated or collected specifically for the assignments.
-
-## Future portfolio version
-
-The strongest material could be extracted into one reproducible project, for example:
-
-```text
-audio
-  ↓
-preprocessing / framing
-  ↓
-spectral features
-  ↓
-classifier / sequence model
-  ↓
-evaluation
-```
-
-with a documented dataset split and WER/accuracy metrics.
